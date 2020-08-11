@@ -1,4 +1,17 @@
-### Hi there 👋
+### Welcome!
+
+Hi, I'm Jon. I'm an:
+
+- 🏢 **Engineering manager** at [VMware Pivotal Labs][1] and mentor at [Code Your Future][2]
+- 🪂 **Extreme programmer** into pair programming, test-driving development, and CI/CD
+- 👯 **Effective collaborator** working in balanced teams to deliver delightful products early and often
+- 👨‍💻 **Adaptable polyglot** shipping software in JavaScript and TypeScript (across AngularJS, Angular, Vue and React), Python, Java and Kotlin (with Spring), and even PHP
+- 🤖 **Automation fan** trying to get robots to do the repetitive stuff so humans can focus on what's important
+
+Check out some of my featured repositories below
+
+  [1]: https://tanzu.vmware.com/labs
+  [2]: https://codeyourfuture.io/
 
 <!--
 **textbook/textbook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
