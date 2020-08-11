@@ -8,8 +8,6 @@ Hi, I'm Jon. I'm an:
 - 👨‍💻 **Adaptable polyglot** shipping software in JavaScript and TypeScript (across AngularJS, Angular, Vue and React), Python, Java and Kotlin (with Spring), and even PHP
 - 🤖 **Automation fan** trying to get robots to do the repetitive stuff so humans can focus on what's important
 
-Check out some of my featured repositories below
-
   [1]: https://tanzu.vmware.com/labs
   [2]: https://codeyourfuture.io/
 
