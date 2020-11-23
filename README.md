@@ -3,7 +3,7 @@
 Hi, I'm Jon. I'm an:
 
 - 🏢 **Engineering manager** at [VMware Pivotal Labs][1] and mentor at [Code Your Future][2]
-- 🪂 **Extreme programmer** into pair programming, test-driving development, and CI/CD
+- 🪂 **Extreme programmer** into [pair programming][4], [test-driving development][5], and [CI/CD][6]
 - 👯 **Effective collaborator** working in balanced teams to deliver delightful products early and often
 - 👨‍💻 **Adaptable polyglot** shipping software in JavaScript and TypeScript (across Angular, Vue and React), Python, Java and Kotlin (with Spring), and even PHP (7, with Laravel)
 - 🤖 **Automation fan** trying to get robots to [do the repetitive stuff][3] so humans can focus on what's important
@@ -11,6 +11,9 @@ Hi, I'm Jon. I'm an:
   [1]: https://tanzu.vmware.com/labs
   [2]: https://codeyourfuture.io/
   [3]: https://blog.jonrshar.pe/2019/Feb/10/automation-for-the-people.html
+  [4]: https://blog.jonrshar.pe/tag/pairing.html
+  [5]: https://blog.jonrshar.pe/tag/tdd.html
+  [6]: https://blog.jonrshar.pe/tag/ci.html
 
 <!--
 **textbook/textbook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
