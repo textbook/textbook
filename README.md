@@ -2,7 +2,7 @@
 
 Hi, I'm Jon. I'm an:
 
-- 🏢 **Engineering manager** at [VMware Pivotal Labs][1] and mentor at [Code Your Future][2]
+- 🏢 **Engineering manager** at [VMware Tanzu Labs][1] and mentor at [Code Your Future][2]
 - 🪂 **Extreme programmer** into [pair programming][4], [test-driving development][5], and [CI/CD][6]
 - 👯 **Effective collaborator** working in balanced teams to deliver delightful products early and often
 - 👨‍💻 **Adaptable polyglot** shipping software in JavaScript and TypeScript (across Angular, Vue and React), Python, Java and Kotlin (with Spring), and even PHP (7, with Laravel)
