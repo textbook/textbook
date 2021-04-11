@@ -15,6 +15,16 @@ Hi, I'm Jon. I'm an:
   [5]: https://blog.jonrshar.pe/tag/tdd.html
   [6]: https://blog.jonrshar.pe/tag/ci.html
 
+📚 Check out my tutorial series on test-driven development in JavaScript:
+
+1. **[FTW]** - the basic principles of TDD, showing unit testing using Jest
+2. **[E2E]** - expanding to higher level testing, using Cypress for E2E and Jest for integration and unit testing of a simple Create React App UI with Testing Library
+3. **[API]** - more options for test doubles as we bring in API calls and even random functionality to our React UI
+
+[FTW]: https://blog.jonrshar.pe/2020/Aug/31/js-tdd-ftw.html
+[E2E]: https://blog.jonrshar.pe/2020/Nov/22/js-tdd-e2e.html
+[API]: https://blog.jonrshar.pe/2021/Apr/10/js-tdd-api.html
+
 <!--
 **textbook/textbook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
