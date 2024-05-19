@@ -2,7 +2,7 @@
 
 Hi, I'm Jon. I'm an:
 
-- 🏢 **Engineering consultant** at [Ignition Works][1] (currently working with [The LEGO Group][7] on behalf of [33 Teams][8]) and mentor at [Code Your Future][2]
+- 🏢 **Engineering consultant** at [Ignition Works][1] and [33 Teams][8] (currently working with [HSBC][7]) and mentor at [Code Your Future][2]
 - 🪂 **Extreme programmer** into [pair programming][4], [test-driving development][5], and [CI/CD][6]
 - 👯 **Effective collaborator** working in balanced teams to deliver delightful products early and often
 - 👨‍💻 **Adaptable polyglot** shipping software in JavaScript and TypeScript (across Angular, Vue and React), Python, Java and Kotlin (with Spring), and even PHP (7, with Laravel)
@@ -14,7 +14,7 @@ Hi, I'm Jon. I'm an:
   [4]: https://blog.jonrshar.pe/tag/pairing.html
   [5]: https://blog.jonrshar.pe/tag/tdd.html
   [6]: https://blog.jonrshar.pe/tag/ci.html
-  [7]: https://www.lego.com/en-gb/aboutus/lego-group
+  [7]: https://www.hsbc.com/
   [8]: https://www.33teams.com/
 
 📚 Check out my tutorial series on test-driven development in JavaScript:
